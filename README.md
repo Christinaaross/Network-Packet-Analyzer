@@ -54,6 +54,7 @@ streamlit run app.py
 This is an early-stage MVP. It focuses on basic packet parsing and diagnostics rather than full enterprise packet inspection.
 
 ## Notes
+How it looks so far. 
 
-- The app is intended for authorized packet captures only.
-- For live packet capture, always make sure you have permission to inspect the traffic.
+- <img width="2774" height="1368" alt="image" src="https://github.com/user-attachments/assets/3d0fd2a7-d571-4458-bd0e-3ea455b1278d" />
+
