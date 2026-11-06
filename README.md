@@ -57,4 +57,6 @@ This is an early-stage MVP. It focuses on basic packet parsing and diagnostics r
 How it looks so far. 
 
 - <img width="2774" height="1368" alt="image" src="https://github.com/user-attachments/assets/3d0fd2a7-d571-4458-bd0e-3ea455b1278d" />
+<img width="2806" height="1386" alt="image" src="https://github.com/user-attachments/assets/c33e6fb5-e536-4651-9cf2-3beae7dc8d35" />
+
 
